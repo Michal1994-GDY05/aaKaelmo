@@ -1,0 +1,26 @@
+
+{
+    "aaKaelmoApp": {
+        "employee" : {
+            "home": {
+                "title": "Employees",
+                "createLabel": "Dodaj Employee",
+                "createOrEditLabel": "Dodaj lub edytuj: Employee"
+            },
+            "created": "Utworzono nowy Employee z identyfikatorem {{ param }}",
+            "updated": "Uaktualniono Employee z identyfikatorem {{ param }}",
+            "deleted": "Usunięto Employee z identyfikatorem {{ param }}",
+            "delete": {
+                "question": "Czy na pewno chcesz usunąć Employee {{ id }}?"
+            },
+            "detail": {
+                "title": "Employee"
+            },
+            "name": "Name",
+            "gender": "Gender",
+            "age": "Age",
+            "company": "Company",
+            "createDate": "Create Date"
+        }
+    }
+}
